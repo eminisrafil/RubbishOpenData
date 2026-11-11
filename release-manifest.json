@@ -1,0 +1,89 @@
+{
+ "builtAt": "2026-10-28T19:15:44+00:00",
+ "columns": [
+  "release_id",
+  "dataset",
+  "time_utc",
+  "time_local",
+  "local_zone",
+  "lat",
+  "lon",
+  "location_precision_m",
+  "street",
+  "city",
+  "state",
+  "zip",
+  "rubbish_type",
+  "items",
+  "categories",
+  "materials",
+  "brands",
+  "items_tagged",
+  "picked_up",
+  "is_311"
+ ],
+ "sets": {
+  "polk-street": {
+   "file": "data/polk-street/polk-street-2018-2021.csv",
+   "rows": 145925,
+   "bytes": 27153345,
+   "sha256": "dd6df399c401c78ef0ced8d59cce1347efa6abcc805bf5c47c5e6730a3a85b40",
+   "datasets": {
+    "Polk Street, San Francisco": 145925
+   },
+   "coarsenedRows": 55
+  },
+  "soma-west": {
+   "file": "data/soma-west/soma-west-2018-2024.csv",
+   "rows": 36575,
+   "bytes": 7173208,
+   "sha256": "e9043e676a3161386cf32d8135c3031cb952a292286bb34917890e5c1e0708c6",
+   "datasets": {
+    "SoMa West community audit (Aug 2019)": 10619,
+    "SoMa West audit (Dec 2020 to Jan 2021)": 17525,
+    "SoMa West cleanups (2018 to 2021)": 8123,
+    "SoMa West district team: QR can reports and cleanups (2020 to 2024)": 308
+   },
+   "coarsenedRows": 447
+  },
+  "sacramento-river-district": {
+   "file": "data/sacramento-river-district/river-district-audit-2021-06.csv",
+   "rows": 18606,
+   "bytes": 3639872,
+   "sha256": "63309da473d4ba0cee4280fd017802e5550c2365ffa5b65a46c93fd1a1d4fe00",
+   "datasets": {
+    "River District audit, Sacramento (Jun 2021)": 18606
+   },
+   "coarsenedRows": 482
+  },
+  "notracetrails": {
+   "file": "data/notracetrails/pacific-crest-trail-2023.csv",
+   "rows": 913,
+   "bytes": 196531,
+   "sha256": "67e221ad34a2e732077447cbf143d7e7ad13ec16e424d3985e47c4cf79f3b821",
+   "datasets": {
+    "NoTraceTrails, Pacific Crest Trail survey (2023)": 913
+   },
+   "coarsenedRows": 0
+  },
+  "events": {
+   "file": "data/events/events-2018-2026.csv",
+   "rows": 9302,
+   "bytes": 1824163,
+   "sha256": "ce3e2d26e574382820b07d373a3d9f7e07f6f6bd80aa622c7f942c193234996e",
+   "datasets": {
+    "Startup Grind Global 2020, Redwood City CA (Feb 2020)": 2477,
+    "Sodus Bay cleanups, NY (2025)": 1055,
+    "SXSW 2022, Austin TX (Mar 2022)": 1482,
+    "Earthday.org team, Flagstaff AZ (Nov 2022)": 514,
+    "APEC 2023 cleanup, San Francisco CA (Nov to Dec 2023)": 997,
+    "Startup Grind Global 2022, Redwood City CA (Apr 2022)": 1079,
+    "Smaller community cleanups (2022 to 2026)": 688,
+    "Y Combinator Startup School, Mountain View CA (Sep 2018)": 416,
+    "MOOP project at regional events, Pennsylvania and New York (2023)": 343,
+    "Crews & Brews cleanup, Westerly RI (Apr 2024)": 251
+   },
+   "coarsenedRows": 18
+  }
+ }
+}

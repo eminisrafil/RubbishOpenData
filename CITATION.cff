@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+type: dataset
+title: "Rubbish Open Data: street litter and street-condition records, 2018 to 2026"
+authors:
+  - name: "Rubbish"
+  - family-names: "Israfil"
+    given-names: "Emin"
+date-released: "2026-10-27"
+license: CC-BY-4.0
+repository-code: "https://github.com/eminisrafil/RubbishOpenData"
+url: "https://www.rubbish.love"
+references:
+  - type: article
+    title: "Lost on the Pacific Crest Trail: a 4,270 km survey of wilderness waste distribution and characteristics"
+    authors:
+      - family-names: "McGruer"
+        given-names: "Victoria"
+      - name: "and colleagues"
+    journal: "Waste Management"
+    volume: 206
+    year: 2025
+    doi: "10.1016/j.wasman.2025.115063"
