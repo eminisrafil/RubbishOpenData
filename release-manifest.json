@@ -84,6 +84,16 @@
     "Crews & Brews cleanup, Westerly RI (Apr 2024)": 251
    },
    "coarsenedRows": 18
+  },
+  "adams-trip": {
+   "file": "data/adams-trip/cross-country-2019-10.csv",
+   "rows": 1538,
+   "bytes": 314844,
+   "sha256": "32a46d621c27046f971d9f2f941f00d50cdec95194ed90ef14b8e26fe1c74070",
+   "datasets": {
+    "Cross-country drive, Philadelphia to California (Oct 2019)": 1538
+   },
+   "coarsenedRows": 0
   }
  }
 }

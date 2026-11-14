@@ -2,7 +2,7 @@
 
 Street litter and street-condition records collected with the [Rubbish](https://www.rubbish.love) app, 2018 to 2026: one photo per record, with time, place, type and count. Shared for researchers, cities and neighbors working on cleaner, healthier streets.
 
-**211,321 records in 5 datasets.** License: [CC BY 4.0](LICENSE). Please cite as shown in [CITATION.cff](CITATION.cff).
+**212,859 records in 6 datasets.** License: [CC BY 4.0](LICENSE). Please cite as shown in [CITATION.cff](CITATION.cff).
 
 | Dataset | Records | Items | Dates | Folder |
 |---|---|---|---|---|
@@ -10,6 +10,7 @@ Street litter and street-condition records collected with the [Rubbish](https://
 | SoMa West, San Francisco (audits in 2019 and 2020) | 36,575 | 53,520 | 2018-05-09 to 2024-08-27 | [data/soma-west](data/soma-west) |
 | River District, Sacramento (June 2021) | 18,606 | 18,606 | 2021-06-06 to 2021-06-09 | [data/sacramento-river-district](data/sacramento-river-district) |
 | NoTraceTrails, Pacific Crest Trail survey (2023) | 913 | 1,085 | 2023-03-28 to 2023-09-24 | [data/notracetrails](data/notracetrails) |
+| Cross-country drive (October 2019) | 1,538 | 1,611 | 2019-10-22 to 2019-10-31 | [data/adams-trip](data/adams-trip) |
 | Events (2018 to 2026) | 9,302 | 12,647 | 2018-09-06 to 2026-03-21 | [data/events](data/events) |
 
 ## Files
@@ -32,7 +33,7 @@ No names, emails, account ids, photos or photo links, notes or house numbers. Lo
 ## Changes
 
 - 2026-10-27: six datasets, 2018 to 2026, with a column guide and method. The Aug to Oct 2018 Polk Street spreadsheet (Feb 2020) is replaced by the full Polk Street set.
-- 2026-11-10: five datasets; the cross-country drive is held back for now.
+- 2026-11-13: six datasets; the cross-country drive (October 2019) is added.
 
 ---
 Made on Polk Street with love. Questions: hello@rubbish.love
